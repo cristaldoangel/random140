@@ -11,10 +11,7 @@ int main() {
   while((ch = getchar()) != EOF){
     buffer[pos++] = ch;
   }
-
   buffer[pos] = '\0';
-
   printf("%s", buffer);
-
   return 0;
 }

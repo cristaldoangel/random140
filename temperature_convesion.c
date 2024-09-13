@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define LOWER   -100
 #define UPPER   100
 #define STEP    10
