@@ -1,3 +1,5 @@
+/*This program read an integer from the promp 
+    and compute its multiplication table*/
 #include<stdio.h>
 
 void printTable(int val);
